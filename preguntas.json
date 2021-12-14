@@ -1,0 +1,88 @@
+[
+    {
+      "num": "1",
+      "pregunta": "¿El alcohol influye en la distancia de detención?",
+      "opciones": [
+        "a) Sí, disminuyéndola.",
+        "b) Sí, aumentándola.",
+        "c) No, la distancia de detención sólo depende de la velocidad."
+      ],
+      "respuesta": 0,
+      "imagen": "p1.jpg"
+    },
+    {
+      "num": "2",
+      "pregunta": "Circulando por una vía frecuentada por peatones, especialmente niños o ancianos, ¿qué haremos?",
+      "opciones": [
+        "a) Reducir la velocidad, incluso llegando a detenerme.",
+        "b) Adoptaré las medidas necesarias para su seguridad, sin tener que moderar obligatoriamente la velocidad."
+      ],
+      "respuesta": 0,
+      "imagen": "p2.jpg"
+    },
+    {
+      "num": "3",
+      "pregunta": "¿Cómo comprobaremos la presión de los neumáticos?",
+      "opciones": [
+        "a) Con los neumáticos fríos.",
+        "b) Con los neumáticos calientes.",
+        "c) Los neumáticos modernos no requieren mantenimiento."
+      ],
+      "respuesta": 0,
+      "imagen": "p3.jpg"
+    },
+    {
+      "num": "4",
+      "pregunta": "¿Las bicicletas pueden llevar remolque?",
+      "opciones": [
+        "a) Sí",
+        "b) No"
+      ],
+      "respuesta": 1,
+      "imagen": "p4.jpg"
+    },
+    {
+      "num": "5",
+      "pregunta": "¿Qué vehículo tiene preferencia en un estrechamiento de la vía cuando no está señalizada la prioridad de paso?",
+      "opciones": [
+        "a) El vehículo que llegue primero al estrechamiento.",
+        "b) El vehículo que entre primero en el estrechamiento de la vía.",
+        "c) El vehículo que tenga que retroceder por el camino más largo."
+      ],
+      "respuesta": 1,
+      "imagen": "p5.jpg"
+    },
+    {
+      "num": "6",
+      "pregunta": "El cinturón de seguridad...",
+      "opciones": [
+        "a) Debe quedar holgado para que la conducción sea cómoda y no aparezca la fatiga.",
+        "b) Debe ajustarse bien para evitar el efecto submarino.",
+        "c) Se debe colocar sobre el abdomen para que sea realmente eficaz."
+      ],
+      "respuesta": 1,
+      "imagen": "p6.jpg"
+    },
+    {
+      "num": "7",
+      "pregunta": "Durante el día, un turismo transporta una carga que sobresale por detrás, ¿está obligado a señalizarla?",
+      "opciones": [
+        "a) Sí, con un trapo rojo.",
+        "b) Sí, con un panel reglamentario.",
+        "c) No, sólo es obligatorio para los camiones."
+      ],
+      "respuesta": 1,
+      "imagen": "p7.jpg"
+    },
+    {
+      "num": "8",
+      "pregunta": "¿Las bicicletas pueden llevar remolque?",
+      "opciones": [
+        "a) Sí, pero únicamente en vías secundarias",
+        "b) Sí, pero únicamente en autovías y autopistas",
+        "c) No, ya que esa norma se considera implícita al entrar en el vehículo"
+      ],
+      "respuesta": 2,
+      "imagen": "p8.jpg"
+    }
+  ]
